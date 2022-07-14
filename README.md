@@ -1,7 +1,7 @@
 # Login-Form
 
 Project created with Php, connected to a MySQL database.
-Project that shows all the features of a Login/Sign up form.
+Project that shows all the features of a Login/Sign-up form.
 
 It's possible to create a new profile, which will be added automatically in the database.
 
